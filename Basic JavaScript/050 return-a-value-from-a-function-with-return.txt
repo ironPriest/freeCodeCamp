@@ -1,0 +1,3 @@
+function timesFive(mul) {
+  return mul * 5;
+}
